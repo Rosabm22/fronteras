@@ -50,7 +50,7 @@ Actualmente se trata de apreciar las fronteras de una manera renovada, es decir:
 Las fronteras son construcciones humanas políticas y antropológicas. Permiten construir nuevas identidades, pero es importante mencionar que estas no son inmutables, tampoco son naturales, ya que como se mencionó son definidas por los seres humanos.
 Las fronteras deben de analizarse en diversas escalas. Actualmente las fronteras son difusas y confusas, ya sea entre países o a niveles más pequeños como lo son los cantones. Muchos mojones o símbolos delimitadores se han perdido o son difíciles de encontrar debido a que se pierden en el entorno. Es decir, hay fronteras poco visibles como la de los Pirineos, ya que no se notan fácilmente los itos que dividen los paises.\ 
 
-![](WhatsApp Image 2023-04-19 at 12.05.55 AM)
+![](WhatsApp Image 2023-04-19 at 12.05.55 AM.jpeg)\
 
  Medina L. (28 de marzo de 2023). Fronteras y Geopolítica [Resumen de presentación de la conferencia]. Universidad de Costa Rica, San Jose.
 [Escuela de Geografía](https://www.geografia.fcs.ucr.ac.cr/index.php) \ 
