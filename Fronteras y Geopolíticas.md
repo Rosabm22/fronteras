@@ -24,7 +24,7 @@ Con el paso del tiempo los gemelos decidieron fundar una ciudad en una de las si
 Actualmente existe pocas marcas fronterizas de la antigüedad por ejemplo la gran muralla china y el muro de Adriano.\
 
 La muralla china fue construida por la dinastía de los Ming, en los siglos XV y XVI, quienes levantaron la muralla que es de al menos 7.000 kilómetros.El proposito de su efificación fuera para poder defenderse de los barbaros.\
-![](https://www.eluniversal.com.mx/resizer/xCL7roGhhtcJhHQhbFxE7e3xEzs=/1200x740/cloudfront-us-east-1.images.arcpublishing.com/eluniversal/AKQROG6PVVCLXM2NZPLZOKUA5Y.jpg)
+<img src= "https://www.eluniversal.com.mx/resizer/xCL7roGhhtcJhHQhbFxE7e3xEzs=/1200x740/cloudfront-us-east-1.images.arcpublishing.com/eluniversal/AKQROG6PVVCLXM2NZPLZOKUA5Y.jpg" width= "500">\
 Figura 1 Muralla china (S/f). Com.mx. Recuperado el 16 de abril de 2023, de https://www.eluniversal.com.mx/resizer/xCL7roGhhtcJhHQhbFxE7e3xEzs=/1200x740/cloudfront-us-east-1.images.arcpublishing.com/eluniversal/AKQROG6PVVCLXM2NZPLZOKUA5Y.jpg \
     ![](https://media.istockphoto.com/id/899508826/es/foto/la-gran-muralla-china.jpg?b=1&s=170667a&w=0&k=20&c=tJI_DFKJtodRh7EuRDzZhpRLDivI0WZvvJUChT8Z-MM=)\
 Figura 2 Muralla china (S/f-b). Istockphoto.com. Recuperado el 16 de abril de 2023, de https://media.istockphoto.com/id/899508826/es/foto/la-gran-muralla-china.jpg?b=1&s=170667a&w=0&k=20&c=tJI_DFKJtodRh7EuRDzZhpRLDivI0WZvvJUChT8Z-MM= \
@@ -48,7 +48,9 @@ Actualmente se trata de apreciar las fronteras de una manera renovada, es decir:
 -	Un nuevo esfuerzo de teorización.\
 
 Las fronteras son construcciones humanas políticas y antropológicas. Permiten construir nuevas identidades, pero es importante mencionar que estas no son inmutables, tampoco son naturales, ya que como se mencionó son definidas por los seres humanos.
-Las fronteras deben de analizarse en diversas escalas. Actualmente las fronteras son difusas y confusas, ya sea entre países o a niveles más pequeños como lo son los cantones. Muchos mojones o símbolos delimitadores se han perdido o son difíciles de encontrar debido a que se pierden en el entorno. Es decir, hay fronteras poco visibles como la de los Pirineos, ya que no se notan fácilmente los itos que dividen los paises. 
+Las fronteras deben de analizarse en diversas escalas. Actualmente las fronteras son difusas y confusas, ya sea entre países o a niveles más pequeños como lo son los cantones. Muchos mojones o símbolos delimitadores se han perdido o son difíciles de encontrar debido a que se pierden en el entorno. Es decir, hay fronteras poco visibles como la de los Pirineos, ya que no se notan fácilmente los itos que dividen los paises.\ 
+
+![](WhatsApp Image 2023-04-19 at 12.05.55 AM)
 
  Medina L. (28 de marzo de 2023). Fronteras y Geopolítica [Resumen de presentación de la conferencia]. Universidad de Costa Rica, San Jose.
 [Escuela de Geografía](https://www.geografia.fcs.ucr.ac.cr/index.php) \ 
